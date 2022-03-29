@@ -182,7 +182,7 @@
     </LinearLayout>
 
     <Button
-        android:id="@+id/btnLogin"
+        android:id="@+id/btnContactUs"
         android:layout_width="149dp"
         android:layout_height="36dp"
         android:text="contact us"
